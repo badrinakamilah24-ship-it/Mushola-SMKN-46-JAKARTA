@@ -1,0 +1,8 @@
+{
+  "name": "Mushola SMKN 46 JAKARTA",
+  "description": "Mosque administration and schedule management for SMKN 46 JAKARTA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
